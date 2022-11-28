@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\MiniAlphaGoUi.o
+./debug\MiniAlphaGoMgr.o
+./debug\CalMachine.o
+./debug\SearchMgr.o
+./debug\Mct.o
+./debug\minialphagoboard.o
+./debug\acount.o
+./debug\moc_MiniAlphaGoUi.o
+./debug\moc_MiniAlphaGoBoard.o
+);

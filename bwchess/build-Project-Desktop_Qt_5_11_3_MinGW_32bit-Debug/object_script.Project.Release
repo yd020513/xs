@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\MiniAlphaGoUi.o
+./release\MiniAlphaGoMgr.o
+./release\CalMachine.o
+./release\SearchMgr.o
+./release\Mct.o
+./release\minialphagoboard.o
+./release\acount.o
+./release\moc_MiniAlphaGoUi.o
+./release\moc_MiniAlphaGoBoard.o
+);
